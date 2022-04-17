@@ -11,5 +11,4 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Igry44ik)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Igry44ik&theme=dark)](https://git.io/streak-stats)
