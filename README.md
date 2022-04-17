@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=15F720&center=true&vCenter=true&width=750&lines=Junior+Backend+Devoloper)](https://git.io/typing-svg)
 
+![Skills](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
