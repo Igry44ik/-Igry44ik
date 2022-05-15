@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor</a> 
+<h1 align="center">Hi there, I'm Igor target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![I am а backend devoloper](https://miro.medium.com/max/1140/1*JMFpAHaFO5O5ExCpsiN8NA.jpeg)
